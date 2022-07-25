@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 /**
  * * main -  prints all arguements
  * * @argc: arguement count
